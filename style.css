@@ -1,0 +1,51 @@
+body {
+    background-color: #fdf5e6;
+    /* Light beige */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.invite-card {
+    width: 80%;
+    max-width: 600px;
+    background-color: #fff;
+    padding: 30px;
+    margin: 60px auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    color: #333366;
+    margin-bottom: 10px;
+}
+
+h3 {
+    color: #6666aa;
+    margin-bottom: 25px;
+}
+
+p {
+    font-size: 16px;
+    margin: 8px 0;
+}
+
+p strong {
+    color: #444;
+}
+
+.event-banner {
+    max-width: 100%;
+    border-radius: 12px;
+    margin-bottom: 20px;
+}
+
+footer {
+    margin-top: 25px;
+    padding-top: 15px;
+    font-size: 14px;
+    border-top: 1px solid #ddd;
+    color: #555;
+}
